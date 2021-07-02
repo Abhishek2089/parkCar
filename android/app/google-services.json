@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270186152309",
+    "project_id": "parkster-14cce",
+    "storage_bucket": "parkster-14cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270186152309:android:b3946ffbc0730f0e93533c",
+        "android_client_info": {
+          "package_name": "com.example.parkster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270186152309-d6l2usjc8pa6v00t8ijsrsk7b6q34448.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.parkster",
+            "certificate_hash": "7991ebcc97320e34f5ebc747e6d558e149544fa3"
+          }
+        },
+        {
+          "client_id": "270186152309-5g5c3auugp7taeeapakkr1kfe8ci76i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiz4SQLeoq8QDrGy3_espuiU0k_mr_NO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270186152309-5g5c3auugp7taeeapakkr1kfe8ci76i8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
